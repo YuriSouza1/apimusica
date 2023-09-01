@@ -1,0 +1,137 @@
+{
+    "diversidade": {
+    
+      "musicas": {
+          "São Paulo": [ {
+            "titulo": "Baile de Favela",
+            "artista": "MC Lipi",
+            "estilo": "Funk Ostentação",
+            "ano": 2015
+          },
+          {
+            "titulo": "Olha a Explosão",
+            "artista": "MC Kevinho",
+            "estilo": "Funk Pop",
+            "ano": 2016
+          },
+          {
+            "titulo": "Favela Chegou",
+            "artista": "Ludmilla feat. Anitta",
+            "estilo": "Funk Carioca",
+            "ano": 2019
+          },
+          {
+            "titulo": "Vai Malandra",
+            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
+            "estilo": "Funk Carioca",
+            "ano": 2017
+          },
+          {
+            "titulo": "Tá Tranquilo Tá Favorável",
+            "artista": "MC Bin Laden",
+            "estilo": "Funk 150 BPM",
+            "ano": 2016
+          }],
+
+
+
+          "Belo Horizonte": [
+               {
+            "titulo": "Baile de Favela",
+            "artista": "MC João",
+            "estilo": "Funk Ostentação",
+            "ano": 2015
+          },
+          {
+            "titulo": "Olha a Explosão",
+            "artista": "MC Kevinho",
+            "estilo": "Funk Pop",
+            "ano": 2016
+          },
+          {
+            "titulo": "Favela Chegou",
+            "artista": "Ludmilla feat. Anitta",
+            "estilo": "Funk Carioca",
+            "ano": 2019
+          },
+          {
+            "titulo": "Vai Malandra",
+            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
+            "estilo": "Funk Carioca",
+            "ano": 2017
+          },
+          {
+            "titulo": "Tá Tranquilo Tá Favorável",
+            "artista": "MC Bin Laden",
+            "estilo": "Funk 150 BPM",
+            "ano": 2016
+          }],
+
+
+
+          "Rio de Janeiro": [ {
+            "titulo": "Baile de Favela",
+            "artista": "MC João",
+            "estilo": "Funk Ostentação",
+            "ano": 2015
+          },
+          {
+            "titulo": "Olha a Explosão",
+            "artista": "MC Kevinho",
+            "estilo": "Funk Pop",
+            "ano": 2016
+          },
+          {
+            "titulo": "Favela Chegou",
+            "artista": "Ludmilla feat. Anitta",
+            "estilo": "Funk Carioca",
+            "ano": 2019
+          },
+          {
+            "titulo": "Vai Malandra",
+            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
+            "estilo": "Funk Carioca",
+            "ano": 2017
+          },
+          {
+            "titulo": "Tá Tranquilo Tá Favorável",
+            "artista": "MC Bin Laden",
+            "estilo": "Funk 150 BPM",
+            "ano": 2016
+          }],
+
+
+
+          "Goias": [ {
+            "titulo": "Baile de Favela",
+            "artista": "MC João",
+            "estilo": "Funk Ostentação",
+            "ano": 2015
+          },
+          {
+            "titulo": "Olha a Explosão",
+            "artista": "MC Kevinho",
+            "estilo": "Funk Pop",
+            "ano": 2016
+          },
+          {
+            "titulo": "Favela Chegou",
+            "artista": "Ludmilla feat. Anitta",
+            "estilo": "Funk Carioca",
+            "ano": 2019
+          },
+          {
+            "titulo": "Vai Malandra",
+            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
+            "estilo": "Funk Carioca",
+            "ano": 2017
+          },
+          {
+            "titulo": "Tá Tranquilo Tá Favorável",
+            "artista": "MC Bin Laden",
+            "estilo": "Funk 150 BPM",
+            "ano": 2016
+          }]
+    }
+    }
+}
