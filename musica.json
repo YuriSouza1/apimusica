@@ -2,135 +2,208 @@
     "diversidade": {
     
       "musicas": {
-          "São Paulo": [ {
-            "titulo": "Baile de Favela",
+          "São Paulo": [
+             {
+               "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27307e118abeba62aba60916c2c&tbnid=s5crOKGMgWS5RM&vet=12ahUKEwjbkruaj5GBAxXBU7gEHT0DDL4QMygJegQIARBW..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F50f1AUCH7sPhtizF0wF4ds&docid=H_zq-R2yROWtUM&w=640&h=640&itg=1&q=labirinto%20da%20favela&safe=active&ved=2ahUKEwjbkruaj5GBAxXBU7gEHT0DDL4QMygJegQIARBW",
+            "titulo": "Labirinto da Favela",
             "artista": "MC Lipi",
+            "estilo": "Funk Superação",
+            "ano": 2020,
+            "url": "https://www.youtube.com/watch?v=fObGqqc3Nio"
+          },
+          {
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-FTZzN8EhFTc1-0-t500x500.jpg&tbnid=3gT3CrcCWSvGJM&vet=12ahUKEwie78q7j5GBAxVarpUCHShlA_gQMygAegQIARAr..i&imgrefurl=https%3A%2F%2Fm.soundcloud.com%2Fmcryansp%2Fbandido-sem-compaixao-feat-mc%3Fin%3Dcqo-015%2Fsets%2Fgol&docid=2JRIAtskxFiO6M&w=500&h=500&q=bandido%20sem%20compaixao%20ryan%20sp&safe=active&ved=2ahUKEwie78q7j5GBAxVarpUCHShlA_gQMygAegQIARAr",
+            "titulo": "Bandido Sem Compaixão",
+            "artista": "MC Ryan SP",
             "estilo": "Funk Ostentação",
-            "ano": 2015
+            "ano": 2020,
+            "url": "https://www.youtube.com/watch?v=zNuYif3uGs4"
           },
           {
-            "titulo": "Olha a Explosão",
-            "artista": "MC Kevinho",
-            "estilo": "Funk Pop",
-            "ano": 2016
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2739b0e272c1497f34ceeec3724&tbnid=nuE6-0J4lrBx0M&vet=12ahUKEwiOurPkj5GBAxVuspUCHS0IBNgQMygBegQIARBK..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6WXglvTFRmjlHHhgjYMNif&docid=OmA6pZPs-VJreM&w=640&h=640&q=ilusao%20cracolandia&safe=active&ved=2ahUKEwiOurPkj5GBAxVuspUCHS0IBNgQMygBegQIARBK",
+            "titulo": "ILUSÃO CRACOLÂNDIA",
+            "artista": "Alok, MC Hariel, MC Davi, MC Ryan SP, Salvador da Rima e Djay W",
+            "estilo": "Funk Conciente",
+            "ano": 2021,
+            "url": "https://www.youtube.com/watch?v=5LqeD-m7Iho"
           },
           {
-            "titulo": "Favela Chegou",
-            "artista": "Ludmilla feat. Anitta",
-            "estilo": "Funk Carioca",
-            "ano": 2019
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2735160478ceab7f79ad0feaa36&tbnid=O9y7xriATkl30M&vet=12ahUKEwiuzMT3j5GBAxWklZUCHYExDEYQMygAegQIARBH..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Falbum%2F3OyWndHk674qqcC2kSD6ms&docid=3xwv7nKfXwHcbM&w=640&h=640&itg=1&q=invensivel%20mc%20daniel&safe=active&ved=2ahUKEwiuzMT3j5GBAxWklZUCHYExDEYQMygAegQIARBH",
+            "titulo": "Invencível",
+            "artista": "MC Daniel e MC Hariel ",
+            "estilo": "Funk Conciente",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=dhWqk9A0hik"
           },
           {
-            "titulo": "Vai Malandra",
-            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
-            "estilo": "Funk Carioca",
-            "ano": 2017
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27309a5379d1d45aa8a814d65e9&tbnid=olvwWPiRjL0nLM&vet=12ahUKEwjswoGPkJGBAxUcBrkGHfbeAhkQMygAegQIARBL..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0UN4QBOBSNWMbbiXyRthnl&docid=xw0o2NlISHF_7M&w=640&h=640&q=eu%20achei&safe=active&ved=2ahUKEwjswoGPkJGBAxUcBrkGHfbeAhkQMygAegQIARBL",
+            "titulo": "Eu Achei",
+            "artista": "MC Paulin da Capital",
+            "estilo": "Funk Superação",
+            "ano": 2020,
+            "url": "https://www.youtube.com/watch?v=Rr8NRWfyXto"
           },
           {
-            "titulo": "Tá Tranquilo Tá Favorável",
-            "artista": "MC Bin Laden",
-            "estilo": "Funk 150 BPM",
-            "ano": 2016
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FK2ekwGDCUFk%2Fhqdefault.jpg&tbnid=JSkQ34fKnFovZM&vet=12ahUKEwimpMShkJGBAxVvHbkGHRCjDFoQMygAegQIARBE..i&imgrefurl=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DK2ekwGDCUFk&docid=E4PDeTQUTourZM&w=480&h=360&q=capital%20paulista%20mc%20ryan%20sp&safe=active&ved=2ahUKEwimpMShkJGBAxVvHbkGHRCjDFoQMygAegQIARBE",
+            "titulo": "CAPITAL PAULISTA",
+            "artista": "MC Ryan SP, Kadu, Joãozinho VT, Kanhoto, Magal e Tuto (DJ Boy)",
+            "estilo": "Funk Superação",
+            "ano": 2016,
+            "url": "https://www.youtube.com/watch?v=K2ekwGDCUFk"
           }],
 
 
 
           "Belo Horizonte": [
                {
-            "titulo": "Baile de Favela",
-            "artista": "MC João",
-            "estilo": "Funk Ostentação",
-            "ano": 2015
+                 "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic126%2Fv4%2Fbf%2Fd5%2F37%2Fbfd537e1-8187-51b7-0cb1-90b994db5674%2F1963624000582_cover.jpg%2F1200x1200bb.jpg&tbnid=zaEMNWwe8Fhc0M&vet=12ahUKEwjXioexk5GBAxWJQ7gEHVn6CKoQMygAegQIARBL..i&imgrefurl=https%3A%2F%2Fmusic.apple.com%2Fbr%2Falbum%2Fmega-pro-baile-do-coqueiro-single%2F1668475084&docid=5HPVXVzHOvtWEM&w=1200&h=1200&q=mega%20pro%20baile%20do%20coqueiro&safe=active&ved=2ahUKEwjXioexk5GBAxWJQ7gEHVn6CKoQMygAegQIARBL",
+            "titulo": "MEGA PRO BAILE DO COKEIRO",
+            "artista": "DJ LIMA ENVOLVIDÃO",
+            "estilo": "MTG",
+            "ano": 2022,
+            "url": "https://www.youtube.com/watch?v=h2p-bRDpq-8"
           },
           {
-            "titulo": "Olha a Explosão",
-            "artista": "MC Kevinho",
-            "estilo": "Funk Pop",
-            "ano": 2016
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.genius.com%2Fc3b258f9f4f998edaa05770c93c1a8b7.1000x1000x1.png&tbnid=SFO_xGGe7rF5uM&vet=12ahUKEwjPko-6k5GBAxULUbgEHQ45DBAQMygBegQIARBS..i&imgrefurl=https%3A%2F%2Fgenius.com%2FDj-ws-da-igrejinha-dj-tj-do-mdp-mc-xangai-and-mc-bicho-solto-nao-e-tik-tok-lyrics&docid=z1ZHykZM0KMfcM&w=1000&h=1000&q=nao%20%C3%A9%20tik%20tok&safe=active&ved=2ahUKEwjPko-6k5GBAxULUbgEHQ45DBAQMygBegQIARBS",
+            "titulo": "NAO E TIK TOK",
+            "artista": "DJ WS DA IGREJINHA",
+            "estilo": "MTG",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=Y2DjqQA2xUc"
           },
           {
-            "titulo": "Favela Chegou",
-            "artista": "Ludmilla feat. Anitta",
-            "estilo": "Funk Carioca",
-            "ano": 2019
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-GDz4CEUBhAzXadBG-G5g9Gw-t500x500.jpg&tbnid=bl0PKk51bHZCdM&vet=12ahUKEwih__3Ok5GBAxUtSLgEHRJTDjIQMygAegQIARBF..i&imgrefurl=https%3A%2F%2Fsoundcloud.com%2Fcanalbhenois2%2Fmega-do-galo-2&docid=ODJIs4Q9xB4xoM&w=500&h=500&q=mega%20do%20galo%202&safe=active&ved=2ahUKEwih__3Ok5GBAxUtSLgEHRJTDjIQMygAegQIARBF",
+            "titulo": "MEGA DO GALO 2",
+            "artista": "GORDÃO DO PC , DJ GUI MARQUES , MC GAROTO E MC MINININ",
+            "estilo": "Funk de BH",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=dEV8gKbw7yM"
           },
           {
-            "titulo": "Vai Malandra",
-            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
-            "estilo": "Funk Carioca",
-            "ano": 2017
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-LlweCtytZb2RvLMv-6s72QA-t500x500.jpg&tbnid=9A8YSx17JZHVrM&vet=12ahUKEwipxKDtk5GBAxV4g5UCHezyAVYQMygDegQIARBY..i&imgrefurl=https%3A%2F%2Fsoundcloud.com%2Fuser-50799889%2Fmc-rick-vem-morenin-satisfazer&docid=KXIgIltE3luNTM&w=500&h=500&q=vem%20morenin%20mc%20rick&safe=active&ved=2ahUKEwipxKDtk5GBAxV4g5UCHezyAVYQMygDegQIARBY",
+            "titulo": "VEM MORENIN",
+            "artista": "MCS RICK, RICA, LEOZIN, DJ YURE, DJ LZ",
+            "estilo": "Funk de BH",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=tTFSsKkAovU"
           },
           {
-            "titulo": "Tá Tranquilo Tá Favorável",
-            "artista": "MC Bin Laden",
-            "estilo": "Funk 150 BPM",
-            "ano": 2016
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-zD7QOidzGFTrwjy7-YuO2rw-t500x500.jpg&tbnid=r5FKSKI_472lWM&vet=12ahUKEwjhsLaLlJGBAxUzlJUCHfZ7A40QMygCegQIARA1..i&imgrefurl=https%3A%2F%2Fsoundcloud.com%2Fdjdgdorb%2Fmc-anjim-ela-que-bate-bate-dj&docid=LhsC1YOydwPZfM&w=500&h=500&q=bate%20bate%20mc%20anjin&safe=active&ved=2ahUKEwjhsLaLlJGBAxUzlJUCHfZ7A40QMygCegQIARA1",
+            "titulo": "BATE BATE",
+            "artista": "MC ANJIM",
+            "estilo": "Funk de BH",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=NpiSsvgDqgM"
+          },
+          {
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdns-images.dzcdn.net%2Fimages%2Fcover%2F81cb662ab0cfcb6fe7d785af3a6a9ead%2F500x500.jpg&tbnid=1EZTnX0jHYzmdM&vet=12ahUKEwjCgdKylJGBAxURtJUCHYbhBhwQMygAegQIARAr..i&imgrefurl=https%3A%2F%2Fwww.deezer.com%2Fes%2Falbum%2F459218275&docid=zH7D_uiJvx1ZFM&w=500&h=500&q=bh%20no%20topo%209%20deezer&safe=active&ved=2ahUKEwjCgdKylJGBAxURtJUCHYbhBhwQMygAegQIARAr",
+            "titulo": "BH NO TOPO 9",
+            "artista": "MCs LUAN DA BS, RICK, GABZIN, TAIRON, MENOR HR | DJ SV e DJ WIN",
+            "estilo": "Funk de BH",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=5rDWQb3zU8M"
           }],
 
 
 
           "Rio de Janeiro": [ {
-            "titulo": "Baile de Favela",
-            "artista": "MC João",
-            "estilo": "Funk Ostentação",
-            "ano": 2015
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D397575050896361%26get_thumbnail%3D1&tbnid=UeE1vsW18UVRrM&vet=12ahUKEwiB3b_RlJGBAxWmkZUCHZbiDuUQMygTegQIARBv..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FDnSheiik%2Fvideos%2F157-do-fallet-t%25C3%25A1-ligado-%25C3%25A9-m%25C3%25B3-marola%2F397575050896361%2F&docid=yky6mqS-HjrLUM&w=1280&h=720&q=157%20do%20fallet&safe=active&ved=2ahUKEwiB3b_RlJGBAxWmkZUCHZbiDuUQMygTegQIARBv",
+            "titulo": "157 DO FALLET TÁ LIGADO E MO MAROLA, NÓS LEVE E SE DA BEM",
+            "artista": "DJ MARCOLA 22",
+            "estilo": "Funk Proibidão",
+            "ano": 2019,
+            "url": "https://www.youtube.com/watch?v=9wJJiCQ-HtY"
           },
           {
-            "titulo": "Olha a Explosão",
-            "artista": "MC Kevinho",
-            "estilo": "Funk Pop",
-            "ano": 2016
-          },
-          {
-            "titulo": "Favela Chegou",
-            "artista": "Ludmilla feat. Anitta",
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-ijU4lC6JwQCqN1cQ-clwAcg-t500x500.jpg&tbnid=iIs2PA9CiIg4fM&vet=12ahUKEwiY4MLilJGBAxXoqJUCHQnnC-kQMygCegQIARBJ..i&imgrefurl=https%3A%2F%2Fsoundcloud.com%2Fdj-j4p4%2Fmtg-os-mlk-tem-fal-dj-j4p4-embrazamento-na-onda-do-beat-serie-gold&docid=pyHpai893Ka80M&w=500&h=500&q=os%20mlk%20tem%20fal&safe=active&ved=2ahUKEwiY4MLilJGBAxXoqJUCHQnnC-kQMygCegQIARBJ",
+            "titulo": "OS MOLEQUE TEM FAL, OS ALEMÃO SABE SE BROTA PASSA MAL",
+            "artista": "LC SHEIK",
             "estilo": "Funk Carioca",
-            "ano": 2019
+            "ano": 2021,
+            "url": "https://www.youtube.com/watch?v=wkYAsGzejF0"
           },
           {
-            "titulo": "Vai Malandra",
-            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273e5980383cb157cc269de2f6e&tbnid=2OHvEjxkQDBKpM&vet=12ahUKEwjExqvvlJGBAxXQqJUCHSpFAU8QMygAegQIARBJ..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F42xHWxSRHKvu36efxZVP4P&docid=mQLoIEdAAm01DM&w=640&h=640&q=vem%20com%20a%20tropa%20do%20tubarao&safe=active&ved=2ahUKEwjExqvvlJGBAxXQqJUCHSpFAU8QMygAegQIARBJ",
+            "titulo": "VEM COM A TROPA DO TUBARÃO, ESSA É A TROPA DO TUBARÃO vs FUNK TIKTOK RJ 2023",
+            "artista": "MC PÂNICO E DJ LK",
             "estilo": "Funk Carioca",
-            "ano": 2017
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=_614qX1-YWk"
           },
           {
-            "titulo": "Tá Tranquilo Tá Favorável",
-            "artista": "MC Bin Laden",
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2736b19d46024e623f257363a36&tbnid=WkAOsKEKhz9zxM&vet=12ahUKEwiY89X6lJGBAxVYmZUCHS2NAB8QMygBegQIARBM..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F0fABszUFNbNq9IW503Gj8v&docid=pPxiIjmoq5ZV4M&w=640&h=640&q=ta%20ok&safe=active&ved=2ahUKEwiY89X6lJGBAxVYmZUCHS2NAB8QMygBegQIARBM",
+            "titulo": "TÁ OK",
+            "artista": "Dennis e Kevin o Chris",
+            "estilo": "Funk Carioca",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=aHBW_Nd_z8k"
+          },
+          {
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdns-images.dzcdn.net%2Fimages%2Fcover%2F90d2fba35c306b4a4cc5de6f64653504%2F500x500.jpg&tbnid=0imgv72bd9S52M&vet=12ahUKEwiR9PWPlZGBAxVPq5UCHevSCyMQMygAegQIARAr..i&imgrefurl=https%3A%2F%2Fwww.deezer.com%2Fbr%2Falbum%2F95702752&docid=vDJVx9ShQil-fM&w=500&h=500&q=alo%20corno&safe=active&ved=2ahUKEwiR9PWPlZGBAxVPq5UCHevSCyMQMygAegQIARAr",
+            "titulo": "ALÔ CORNO",
+            "artista": "R10 O Pinta",
             "estilo": "Funk 150 BPM",
-            "ano": 2016
+            "ano": 2019,
+            "url": "https://www.youtube.com/watch?v=Ehxxt5-uSs0"
+          },
+          {
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdns-images.dzcdn.net%2Fimages%2Fcover%2Fba0a9ced55d952ffd317d11bc0950c6c%2F500x500.jpg&tbnid=XsV7CD0mY4F6aM&vet=12ahUKEwjojdeflZGBAxURTrgEHcjMBM8QMygEegQIARBE..i&imgrefurl=https%3A%2F%2Fwww.deezer.com%2Fbr%2Ftrack%2F606690802&docid=UTjCY6ZKoAuUGM&w=500&h=500&q=senta%20senta%20senta%20ai%20droga%20&safe=active&ved=2ahUKEwjojdeflZGBAxURTrgEHcjMBM8QMygEegQIARBE",
+            "titulo": "Senta, senta, senta ai droga",
+            "artista": "FP do Trem bala",
+            "estilo": "Funk 150 BPM",
+            "ano": 2019,
+            "url": "https://www.youtube.com/watch?v=BzavRj4pnK0"
           }],
 
 
 
           "Goias": [ {
-            "titulo": "Baile de Favela",
-            "artista": "MC João",
-            "estilo": "Funk Ostentação",
-            "ano": 2015
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D4273519682739643&tbnid=hqtKpgtnsnN0GM&vet=12ahUKEwiZu7HDlZGBAxXsr5UCHc-0D2YQMygXegQIARBm..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fdeboxeoficiall%2Fposts%2Fbaixe-agora-cd-sava-abacate-deboxe-july-2021-music-link-%25C3%25BAnico-httpsbitly3yo8rcwh%2F4273520019406276%2F&docid=9iYHYm3wsPYtQM&w=563&h=516&q=iphone%2014%20deboxe&safe=active&ved=2ahUKEwiZu7HDlZGBAxXsr5UCHc-0D2YQMygXegQIARBm",
+            "titulo": "Iphone 14",
+            "artista": "DEBOXE",
+            "estilo": "EletroFunk",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=fBKR1YJb2pU"
           },
           {
-            "titulo": "Olha a Explosão",
-            "artista": "MC Kevinho",
-            "estilo": "Funk Pop",
-            "ano": 2016
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FL0nIk7w7gjE%2Fhq720.jpg%3Fsqp%3D-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD%26rs%3DAOn4CLCnRQSqVrfU6HQsEsnyrPLnmWW6eQ&tbnid=rxwzVzKvR1TosM&vet=12ahUKEwjG4dyml5GBAxUolZUCHSRAAOUQMygSegQIARB1..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcAVzC2aStHg&docid=l5W64E6nlOf2NM&w=686&h=386&q=pra%20comecar%20o%20final%20de%20semana%20deboxe&safe=active&ved=2ahUKEwjG4dyml5GBAxUolZUCHSRAAOUQMygSegQIARB1",
+            "titulo": "Pra começar o final de semana",
+            "artista": "DEBOXE",
+            "estilo": "EletroFunk",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=_6i7wG3S8xg"
           },
           {
-            "titulo": "Favela Chegou",
-            "artista": "Ludmilla feat. Anitta",
-            "estilo": "Funk Carioca",
-            "ano": 2019
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fj9mZu6XzYY0%2Fmaxresdefault.jpg&tbnid=yeZmscpzwkymaM&vet=12ahUKEwiB4NbBl5GBAxW9npUCHfX1D8AQMygQegQIARBy..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj9mZu6XzYY0&docid=q1GGjr0VW9bKHM&w=1280&h=720&q=cumade%20e%20cumade%20deboxe&safe=active&ved=2ahUKEwiB4NbBl5GBAxW9npUCHfX1D8AQMygQegQIARBy",
+            "titulo": "Cumade e Cumade",
+            "artista": "DEBOXE",
+            "estilo": "EletroFunk",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=dlwW34DUgLs"
           },
           {
-            "titulo": "Vai Malandra",
-            "artista": "Anitta feat. MC Zaac, Maejor, Tropkillaz",
-            "estilo": "Funk Carioca",
-            "ano": 2017
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic122%2Fv4%2Fe6%2Fd1%2F74%2Fe6d17446-74c4-91ab-b5da-6b9899e35cbf%2F8445824004872_cover.jpg%2F1200x1200bf-60.jpg&tbnid=mo-c5ZPSKtm-YM&vet=12ahUKEwio87DNl5GBAxU-rpUCHSkiBacQMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fmusic.apple.com%2Fbr%2Falbum%2Fela-%25C3%25A9-um-pequi-aqui-de-goi%25C3%25A1s-feat-dj-tn-beat-single%2F1632897812&docid=kjZUVDt_AWz9cM&w=1200&h=1200&q=ela%20%C3%A9%20um%20pequi&safe=active&ved=2ahUKEwio87DNl5GBAxU-rpUCHSkiBacQMygAegQIARBM",
+            "titulo": "Ela é um pequi aqui de Goiás",
+            "artista": "Mc Jacaré",
+            "estilo": "EletroFunk",
+            "ano": 2022,
+            "url": "https://www.youtube.com/watch?v=-uj7X-2LLoI"
           },
           {
-            "titulo": "Tá Tranquilo Tá Favorável",
-            "artista": "MC Bin Laden",
-            "estilo": "Funk 150 BPM",
-            "ano": 2016
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D3258898210868467&tbnid=azYf7F-ZvG6WLM&vet=12ahUKEwj_i4_nl5GBAxV3TrgEHegaCGgQMygEegQIARBK..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fdeboxeoficiall%2Fposts%2Fdeboxe-cd-novo-p-download-45-faixas-totalmente-mixadashttpsbitly3ffbk0elink-alte%2F3258898267535128%2F&docid=k_8t_pjqeshdIM&w=750&h=750&q=brasil%20car%20deboxe&safe=active&ved=2ahUKEwj_i4_nl5GBAxV3TrgEHegaCGgQMygEegQIARBK",
+            "titulo": "Brasil Car",
+            "artista": "DEBOXE",
+            "estilo": "EletroFunk",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=GVxxyUknREA"
+          },
+          {
+            "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67706c0000da84981a05e63cd535af9b94f785&tbnid=ddMsB9qhT2bNEM&vet=12ahUKEwj0_IHwl5GBAxX4uJUCHXwlAYsQMygMegQIARBt..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F16gJR8oumdwcrotQ1PtNXi&docid=h3OFQhsGkXWJQM&w=290&h=300&q=toca%20o%20trompete%20deboxe&safe=active&ved=2ahUKEwj0_IHwl5GBAxX4uJUCHXwlAYsQMygMegQIARBt",
+            "titulo": "Toca O Trompete",
+            "artista": "DEBOXE",
+            "estilo": "EletroFunk",
+            "ano": 2023,
+            "url": "https://www.youtube.com/watch?v=ZmLAP701dSs"
           }]
     }
     }
