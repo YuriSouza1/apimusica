@@ -2,7 +2,7 @@
     "diversidade": {
     
       "musicas": {
-          "São Paulo": [
+          "São_Paulo": [
              {
                "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27307e118abeba62aba60916c2c&tbnid=s5crOKGMgWS5RM&vet=12ahUKEwjbkruaj5GBAxXBU7gEHT0DDL4QMygJegQIARBW..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F50f1AUCH7sPhtizF0wF4ds&docid=H_zq-R2yROWtUM&w=640&h=640&itg=1&q=labirinto%20da%20favela&safe=active&ved=2ahUKEwjbkruaj5GBAxXBU7gEHT0DDL4QMygJegQIARBW",
             "titulo": "Labirinto da Favela",
@@ -54,7 +54,7 @@
 
 
 
-          "Belo Horizonte": [
+          "Belo_Horizonte": [
                {
                  "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic126%2Fv4%2Fbf%2Fd5%2F37%2Fbfd537e1-8187-51b7-0cb1-90b994db5674%2F1963624000582_cover.jpg%2F1200x1200bb.jpg&tbnid=zaEMNWwe8Fhc0M&vet=12ahUKEwjXioexk5GBAxWJQ7gEHVn6CKoQMygAegQIARBL..i&imgrefurl=https%3A%2F%2Fmusic.apple.com%2Fbr%2Falbum%2Fmega-pro-baile-do-coqueiro-single%2F1668475084&docid=5HPVXVzHOvtWEM&w=1200&h=1200&q=mega%20pro%20baile%20do%20coqueiro&safe=active&ved=2ahUKEwjXioexk5GBAxWJQ7gEHVn6CKoQMygAegQIARBL",
             "titulo": "MEGA PRO BAILE DO COKEIRO",
@@ -106,7 +106,7 @@
 
 
 
-          "Rio de Janeiro": [ {
+          "Rio_de_Janeiro": [ {
             "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D397575050896361%26get_thumbnail%3D1&tbnid=UeE1vsW18UVRrM&vet=12ahUKEwiB3b_RlJGBAxWmkZUCHZbiDuUQMygTegQIARBv..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FDnSheiik%2Fvideos%2F157-do-fallet-t%25C3%25A1-ligado-%25C3%25A9-m%25C3%25B3-marola%2F397575050896361%2F&docid=yky6mqS-HjrLUM&w=1280&h=720&q=157%20do%20fallet&safe=active&ved=2ahUKEwiB3b_RlJGBAxWmkZUCHZbiDuUQMygTegQIARBv",
             "titulo": "157 DO FALLET TÁ LIGADO E MO MAROLA, NÓS LEVE E SE DA BEM",
             "artista": "DJ MARCOLA 22",
