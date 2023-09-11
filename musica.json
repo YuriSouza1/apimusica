@@ -1,7 +1,4 @@
 {
-    "diversidade": {
-    
-      "musicas": {
           "São_Paulo": [
              {
                "capa": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b27307e118abeba62aba60916c2c&tbnid=s5crOKGMgWS5RM&vet=12ahUKEwjbkruaj5GBAxXBU7gEHT0DDL4QMygJegQIARBW..i&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Ftrack%2F50f1AUCH7sPhtizF0wF4ds&docid=H_zq-R2yROWtUM&w=640&h=640&itg=1&q=labirinto%20da%20favela&safe=active&ved=2ahUKEwjbkruaj5GBAxXBU7gEHT0DDL4QMygJegQIARBW",
@@ -205,6 +202,4 @@
             "ano": 2023,
             "url": "https://www.youtube.com/watch?v=ZmLAP701dSs"
           }]
-    }
-    }
 }
