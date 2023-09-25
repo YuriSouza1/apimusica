@@ -1,0 +1,18 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  max-width: auto;
+  padding: 0em 6em;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 2em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 4px 4px 15px #9D4BB5;
+  font-size: 40px;
+}
+
+.mod {
+  display: flex;
+}

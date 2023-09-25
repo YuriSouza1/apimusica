@@ -1,0 +1,20 @@
+.menu {
+	display: flex;
+	margin-top: 8em;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	text-shadow: 2px 2px 14px blue;
+	border-radius: 10px;
+	margin: auto;
+	padding: 0em 3em;
+	font-size: 10px;
+	border: 1px solid pink;
+	transition: border 0.5s;
+}
+
+a:hover {
+	border: 1px solid #9D4BB5;
+}

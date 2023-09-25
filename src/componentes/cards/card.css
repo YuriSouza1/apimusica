@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo&family=Roboto+Slab&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.Container {
+  overflow-x: auto;
+  max-width: 800px;
+  display: flex;
+}
+
+.comandos {
+  display: flex;
+}
+
+.barra {
+  margin-top: -1em;
+  width: 14em;
+}
+
+.songCard {
+  border-radius: 40px;
+  background-color: #0000009c;
+  min-width: 270px;
+  height: 390px;
+  padding: 25px 0px;
+  margin: 20px 40px;
+  margin: auto;
+  margin-top: 8em;
+}
+
+.songCard:hover {
+  transition-property: background-color;
+  transition-duration: 0.4s;
+  background-color: #0000005e;
+  cursor: default;
+  border: 1px solid rgba(156, 75, 181, 0.328);
+}
+
+.imgRounded {
+  border-radius: 10px;
+  box-shadow: 1px 3px 5px rgba(37, 37, 37, 0.76);
+  z-index: 1;
+}
+
+.title {
+  text-align: left;
+  font-family: "Archivo", sans-serif;
+  word-break: break-all;
+  padding: 0 10px;
+  letter-spacing: 1.5px;
+  margin: 20px 0 0 12px;
+}
+
+.description {
+  padding: 0 10px;
+  color: #a7a7a7;
+  font-family: "Roboto Slab", serif;
+  word-break: break-all;
+  text-align: left;
+  margin: 6px 0 0 12px;
+}
+
+.heart {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  left: 210px;
+  bottom: -10px;
+  cursor: pointer;
+}
+
+.playButton {
+  border-radius: 100%;
+  width: 45px;
+  height: 45px;
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  position: relative;
+  left: 25px;
+  bottom: -8px;
+  cursor: pointer;
+}
+.shuffle {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  left: 20px;
+  bottom: -20px;
+  cursor: pointer;
+}
+.back {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  left: 15px;
+  bottom: -20px;
+  cursor: pointer;
+}
+.forward {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  left: 34px;
+  bottom: -21px;
+  cursor: pointer;
+}
+.repeat {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  left: 30px;
+  bottom: -21px;
+  cursor: pointer;
+}
